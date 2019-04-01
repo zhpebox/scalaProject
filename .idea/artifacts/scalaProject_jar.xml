@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="scalaProject:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/scalaProject_jar</output-path>
+    <root id="root">
+      <element id="archive" name="scalaProject.jar">
+        <element id="module-output" name="scalaProject" />
+      </element>
+      <element id="library" level="project" name="sparrkJars" />
+    </root>
+  </artifact>
+</component>

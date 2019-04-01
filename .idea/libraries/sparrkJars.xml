@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="sparrkJars">
+    <CLASSES>
+      <root url="file://E:/externalJar/sparrkJars" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://E:/externalJar/sparrkJars" />
+    </SOURCES>
+    <jarDirectory url="file://E:/externalJar/sparrkJars" recursive="false" />
+    <jarDirectory url="file://E:/externalJar/sparrkJars" recursive="false" type="SOURCES" />
+  </library>
+</component>
